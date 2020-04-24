@@ -1,3 +1,5 @@
+# ⚠️ This project has been moved to the [official Freebox Repo](https://github.com/fbx/homebridge-freebox-home) ⚠️
+
 <p align="center">
   <img src="https://github.com/Que20/freebox-home-api/raw/master/logo.png" data-canonical-src="https://github.com/Que20/freebox-home-api/raw/master/logo.png" width="338" height="120" />
 </p>
